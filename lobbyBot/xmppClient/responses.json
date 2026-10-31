@@ -1,0 +1,31 @@
+{
+    "Status": "In Lobby",
+    "bIsPlaying": false,
+    "bIsJoinable": false,
+    "bHasVoiceSupport": false,
+    "SessionId": "",
+    "ProductName": "Fortnite",
+    "Properties": {
+        "FortBasicInfo_j": {
+            "homeBaseRating": 0
+        },
+        "FortLFG_I": "0",
+        "FortPartySize_i": 1,
+        "FortSubGame_i": 1,
+        "IslandCode_s": "",
+        "IsInZone_b": false,
+        "FortGameplayStats_j": {
+            "state": "",
+            "playlist": "None",
+            "numKills": 0,
+            "bFellToDeath": false
+        },
+        "SocialStatus_j": {
+            "attendingSocialEventIds": []
+        },
+        "InUnjoinableMatch_b": false,
+        "party.joininfodata.286331153_j": {
+            "bIsPrivate": true
+        }
+    }
+}
